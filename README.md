@@ -1,4 +1,4 @@
-#**Health and Lifestyle Insights**
+# **Health and Lifestyle Insights**
 
 This project provides a comprehensive overview of health and lifestyle metrics. It leverages data to visualize and analyze various aspects of user well-being, including:
 
