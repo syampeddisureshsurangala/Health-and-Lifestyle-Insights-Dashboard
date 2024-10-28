@@ -1,8 +1,8 @@
-Health and Lifestyle Insights
+**Health and Lifestyle Insights**
 
 This project provides a comprehensive overview of health and lifestyle metrics. It leverages data to visualize and analyze various aspects of user well-being, including:
 
-Key Metrics:
+**Key Metrics:**
 
 Daily Steps: Median daily step count across all users.
 
@@ -16,7 +16,7 @@ Sleep Duration: Distribution of sleep duration across different age groups.
 
 Physical Activity: Count of physical activity sessions over time.
 
-Visualizations:
+**Visualizations:**
 
 Bar Chart: Shows the distribution of sleep duration across different age groups.
 
@@ -25,7 +25,7 @@ Line Chart: Tracks the count of physical activity sessions over time.
 Pie Chart: Illustrates the distribution of stress levels among various professions.
 Usage:
 
-This project can be used to:
+**This project can be used to:**
 
 
 Gain insights into individual health and lifestyle patterns.
@@ -34,7 +34,7 @@ Identify potential areas for improvement in health and well-being.
 
 Track progress towards health goals over time.
 
-Future Work:
+**Future Work:**
 
 Incorporate additional data sources (e.g., dietary information, exercise data).
 
@@ -42,7 +42,7 @@ Develop more advanced analysis techniques (e.g., machine learning models for pre
 
 Create interactive visualizations for a more engaging user experience.
 
-Contributing:
+**Contributing:**
 
 Contributions to this project are welcome! Please feel free to fork the repository and submit pull requests.
 
